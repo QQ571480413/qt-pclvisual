@@ -1,0 +1,9 @@
+@#
+参考示例: G:\TreeDetact\third\vtk-v8.1.2\GUISupport\Qt\Testing\Python
+
+@#
+界面参考: https://blog.csdn.net/neverstop_2009/article/details/47364071		Toggle button
+
+@#
+这里有个交互的示例, 可以响应qt事件
+G:\test\TD_test\PCL-Python\TestConnection.py
